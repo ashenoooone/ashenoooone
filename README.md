@@ -21,8 +21,8 @@
 
 <h3>🏆 Моя статистика</h3>
 <p>
-  <a src = "https://github.com/ashenoooone">
-    <img height = '50%' src="https://github-readme-stats.vercel.app/api?username=ashenoooone&show_icons=true&include_all_commits=true&count_private=true" />
-    <img height = '50%' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashenoooone&layout=compact&langs_count=8"/>
+  <a src = "https://github.com/ashenoooone" display = "flex">
+    <img src="https://github-readme-stats.vercel.app/api?username=ashenoooone&show_icons=true&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashenoooone&layout=compact&langs_count=8"/>
   </a>
 </p>
