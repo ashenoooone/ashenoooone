@@ -20,10 +20,10 @@
 </div>
 
 <h3>🏆 Моя статистика</h3>
-<div align = center>
+<p>
   <img height = 170px src="https://github-readme-stats.vercel.app/api?username=ashenoooone&show_icons=true&include_all_commits=true&count_private=true" />
   <img height = 170px src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashenoooone&layout=compact&langs_count=8"/>
-</div>
+</p>
   <!--
 **ashenoooone/ashenoooone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
