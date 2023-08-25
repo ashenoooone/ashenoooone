@@ -10,11 +10,3 @@
   <img height = 25px src = "https://img.shields.io/badge/-Visual Studio Code-black?&logo=visual-studio-code&logoColor=blue"/>
   <img height = 25px src = "https://img.shields.io/badge/-Figma-black?&logo=Figma"/>
 </div>
-
-<h3>🏆 Моя статистика</h3>
-<p>
-  <a src = "https://github.com/ashenoooone">
-    <img height = '160px' src="https://github-readme-stats.vercel.app/api?username=ashenoooone&show_icons=true&include_all_commits=true&count_private=true" />
-    <img height = '160px' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashenoooone&layout=compact&langs_count=8"/>
-  </a>
-</p>
